@@ -19,4 +19,5 @@
 </content>
 	<tabTrigger>b4-btn-group-nesting</tabTrigger>
 	<description>Button</description>
+	<scope>text.html</scope>
 </snippet>

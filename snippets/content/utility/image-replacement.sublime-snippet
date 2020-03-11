@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-image-replacement</tabTrigger>
 	<description>Image Replacement</description>
+	<scope>text.html</scope>
 </snippet>

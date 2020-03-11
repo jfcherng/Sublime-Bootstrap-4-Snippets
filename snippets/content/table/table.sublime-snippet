@@ -38,4 +38,5 @@
 </content>
 	<tabTrigger>b4-table</tabTrigger>
 	<description>Table</description>
+	<scope>text.html</scope>
 </snippet>

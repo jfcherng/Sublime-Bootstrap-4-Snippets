@@ -21,4 +21,5 @@
 </content>
 	<tabTrigger>b4-scrollspy-listgroup</tabTrigger>
 	<description>Scrollspy</description>
+	<scope>text.html</scope>
 </snippet>

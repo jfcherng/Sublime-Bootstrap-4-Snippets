@@ -38,4 +38,5 @@
 </content>
 	<tabTrigger>b4-scrollspy-nested</tabTrigger>
 	<description>Scrollspy</description>
+	<scope>text.html</scope>
 </snippet>

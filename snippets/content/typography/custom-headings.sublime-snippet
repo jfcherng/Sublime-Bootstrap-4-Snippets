@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-custom-headings</tabTrigger>
 	<description>Headings</description>
+	<scope>text.html</scope>
 </snippet>

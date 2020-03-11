@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-badge-pill</tabTrigger>
 	<description>Badge</description>
+	<scope>text.html</scope>
 </snippet>

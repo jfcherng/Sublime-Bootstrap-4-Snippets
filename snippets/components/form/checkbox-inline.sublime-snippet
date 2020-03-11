@@ -13,4 +13,5 @@
 </content>
 	<tabTrigger>b4-checkbox-inline</tabTrigger>
 	<description>Checkbox</description>
+	<scope>text.html</scope>
 </snippet>

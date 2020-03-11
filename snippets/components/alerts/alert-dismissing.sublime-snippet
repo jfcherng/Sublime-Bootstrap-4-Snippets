@@ -11,4 +11,5 @@
 </content>
 	<tabTrigger>b4-alert-dismissing</tabTrigger>
 	<description>Alert</description>
+	<scope>text.html</scope>
 </snippet>

@@ -10,4 +10,5 @@
 </content>
 	<tabTrigger>b4-navbar-image</tabTrigger>
 	<description>Navbar</description>
+	<scope>text.html</scope>
 </snippet>

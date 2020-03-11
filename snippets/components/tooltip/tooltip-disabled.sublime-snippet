@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-tooltip-disabled</tabTrigger>
 	<description>Tooltip</description>
+	<scope>text.html</scope>
 </snippet>

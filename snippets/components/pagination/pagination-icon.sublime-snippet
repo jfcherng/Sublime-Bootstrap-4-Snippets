@@ -22,4 +22,5 @@
 </content>
 	<tabTrigger>b4-pagination-icon</tabTrigger>
 	<description>Pagination</description>
+	<scope>text.html</scope>
 </snippet>

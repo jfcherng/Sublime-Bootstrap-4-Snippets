@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-close-icon</tabTrigger>
 	<description>Close Icon</description>
+	<scope>text.html</scope>
 </snippet>

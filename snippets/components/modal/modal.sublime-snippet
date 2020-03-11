@@ -30,4 +30,5 @@
 </content>
 	<tabTrigger>b4-modal</tabTrigger>
 	<description>Modal</description>
+	<scope>text.html</scope>
 </snippet>

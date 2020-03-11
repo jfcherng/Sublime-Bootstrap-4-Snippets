@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-img-center</tabTrigger>
 	<description>Image Align</description>
+	<scope>text.html</scope>
 </snippet>

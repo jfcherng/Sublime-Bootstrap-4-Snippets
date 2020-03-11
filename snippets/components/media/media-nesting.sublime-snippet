@@ -22,4 +22,5 @@
 </content>
 	<tabTrigger>b4-media-nesting</tabTrigger>
 	<description>Media</description>
+	<scope>text.html</scope>
 </snippet>

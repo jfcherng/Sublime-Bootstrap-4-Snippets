@@ -18,4 +18,5 @@
 </content>
 	<tabTrigger>b4-pagination</tabTrigger>
 	<description>Pagination</description>
+	<scope>text.html</scope>
 </snippet>

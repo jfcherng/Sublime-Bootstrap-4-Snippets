@@ -18,4 +18,5 @@
 </content>
 	<tabTrigger>b4-carousel-slides-only</tabTrigger>
 	<description>Carousel</description>
+	<scope>text.html</scope>
 </snippet>

@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-custom-file</tabTrigger>
 	<description>CustomFile</description>
+	<scope>text.html</scope>
 </snippet>

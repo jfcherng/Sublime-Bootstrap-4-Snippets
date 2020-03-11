@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-spinner-border</tabTrigger>
 	<description>Spinner</description>
+	<scope>text.html</scope>
 </snippet>

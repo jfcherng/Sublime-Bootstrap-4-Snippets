@@ -13,4 +13,5 @@
 </content>
 	<tabTrigger>b4-input-group-checkbox</tabTrigger>
 	<description>Input Group</description>
+	<scope>text.html</scope>
 </snippet>

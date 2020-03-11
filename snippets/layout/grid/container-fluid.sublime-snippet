@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-container-fluid</tabTrigger>
 	<description>Container Fluid</description>
+	<scope>text.html</scope>
 </snippet>

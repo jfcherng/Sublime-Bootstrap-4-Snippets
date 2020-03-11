@@ -45,4 +45,5 @@
 </content>
 	<tabTrigger>b4-carousel-with-controls-indicators-captions</tabTrigger>
 	<description>Carousel</description>
+	<scope>text.html</scope>
 </snippet>

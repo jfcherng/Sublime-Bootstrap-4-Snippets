@@ -19,4 +19,5 @@
 </content>
 	<tabTrigger>b4-nav-align-vertical-item-link</tabTrigger>
 	<description>Nav</description>
+	<scope>text.html</scope>
 </snippet>

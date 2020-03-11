@@ -10,4 +10,5 @@
 </content>
 	<tabTrigger>b4-progress-multiple</tabTrigger>
 	<description>Progress</description>
+	<scope>text.html</scope>
 </snippet>

@@ -18,4 +18,5 @@
 </content>
 	<tabTrigger>b4-dropdown-split-btn</tabTrigger>
 	<description>Dropdown</description>
+	<scope>text.html</scope>
 </snippet>

@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-custom-radio</tabTrigger>
 	<description>CustomRadio</description>
+	<scope>text.html</scope>
 </snippet>

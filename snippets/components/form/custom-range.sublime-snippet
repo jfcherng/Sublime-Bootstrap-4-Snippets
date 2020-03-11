@@ -7,4 +7,5 @@
 </content>
 	<tabTrigger>b4-custom-range</tabTrigger>
 	<description>CustomRange</description>
+	<scope>text.html</scope>
 </snippet>

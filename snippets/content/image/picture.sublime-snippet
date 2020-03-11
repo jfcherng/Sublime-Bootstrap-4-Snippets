@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-picture</tabTrigger>
 	<description>Picture</description>
+	<scope>text.html</scope>
 </snippet>

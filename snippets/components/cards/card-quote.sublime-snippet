@@ -16,4 +16,5 @@
 </content>
 	<tabTrigger>b4-card-quote</tabTrigger>
 	<description>Card</description>
+	<scope>text.html</scope>
 </snippet>

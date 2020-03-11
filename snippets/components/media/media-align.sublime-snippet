@@ -13,4 +13,5 @@
 </content>
 	<tabTrigger>b4-media-align</tabTrigger>
 	<description>Media</description>
+	<scope>text.html</scope>
 </snippet>

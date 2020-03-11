@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-img-responsive</tabTrigger>
 	<description>Image Responsive</description>
+	<scope>text.html</scope>
 </snippet>

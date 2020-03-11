@@ -21,4 +21,5 @@
 </content>
 	<tabTrigger>b4-segmented-button</tabTrigger>
 	<description>SegmentedButton</description>
+	<scope>text.html</scope>
 </snippet>

@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-screen-readers</tabTrigger>
 	<description>ScreenReaders</description>
+	<scope>text.html</scope>
 </snippet>

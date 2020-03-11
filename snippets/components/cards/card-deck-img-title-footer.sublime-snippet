@@ -37,4 +37,5 @@
 </content>
 	<tabTrigger>b4-card-deck-img-title-footer</tabTrigger>
 	<description>Card</description>
+	<scope>text.html</scope>
 </snippet>

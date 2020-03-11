@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-progress</tabTrigger>
 	<description>Progress</description>
+	<scope>text.html</scope>
 </snippet>

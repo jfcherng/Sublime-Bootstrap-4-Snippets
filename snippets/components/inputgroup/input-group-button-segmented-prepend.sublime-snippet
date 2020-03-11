@@ -21,4 +21,5 @@
 </content>
 	<tabTrigger>b4-input-group-button-segmented-prepend</tabTrigger>
 	<description>Input Group</description>
+	<scope>text.html</scope>
 </snippet>

@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-popover</tabTrigger>
 	<description>Popover</description>
+	<scope>text.html</scope>
 </snippet>

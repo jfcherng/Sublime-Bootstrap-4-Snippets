@@ -26,4 +26,5 @@
 </content>
 	<tabTrigger>b4-form-inline</tabTrigger>
 	<description>Form</description>
+	<scope>text.html</scope>
 </snippet>

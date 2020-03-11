@@ -22,4 +22,5 @@
 </content>
 	<tabTrigger>b4-list-unstyled</tabTrigger>
 	<description>List</description>
+	<scope>text.html</scope>
 </snippet>

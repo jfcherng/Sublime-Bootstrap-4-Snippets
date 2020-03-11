@@ -21,4 +21,5 @@
 </content>
 	<tabTrigger>b4-nav-pills-horizontal</tabTrigger>
 	<description>Nav</description>
+	<scope>text.html</scope>
 </snippet>

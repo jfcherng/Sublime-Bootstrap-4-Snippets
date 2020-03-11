@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-cdn-css</tabTrigger>
 	<description>CDN</description>
+	<scope>text.html</scope>
 </snippet>

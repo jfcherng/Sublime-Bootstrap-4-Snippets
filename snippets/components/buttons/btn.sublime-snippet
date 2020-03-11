@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-btn</tabTrigger>
 	<description>Button</description>
+	<scope>text.html</scope>
 </snippet>

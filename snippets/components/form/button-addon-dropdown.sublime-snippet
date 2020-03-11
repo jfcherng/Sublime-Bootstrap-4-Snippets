@@ -18,4 +18,5 @@
 </content>
 	<tabTrigger>b4-button-addon-dropdown</tabTrigger>
 	<description>Button</description>
+	<scope>text.html</scope>
 </snippet>

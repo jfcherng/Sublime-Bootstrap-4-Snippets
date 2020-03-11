@@ -9,4 +9,5 @@
 </content>
 	<tabTrigger>b4-blockquote</tabTrigger>
 	<description>Blockquote</description>
+	<scope>text.html</scope>
 </snippet>

@@ -19,4 +19,5 @@
 </content>
 	<tabTrigger>b4-listgroup-badges</tabTrigger>
 	<description>ListGroup</description>
+	<scope>text.html</scope>
 </snippet>

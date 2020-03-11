@@ -17,4 +17,5 @@
 </content>
 	<tabTrigger>b4-nav-tabs</tabTrigger>
 	<description>Nav</description>
+	<scope>text.html</scope>
 </snippet>

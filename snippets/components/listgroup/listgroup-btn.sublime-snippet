@@ -14,4 +14,5 @@
 </content>
 	<tabTrigger>b4-listgroup-btn</tabTrigger>
 	<description>ListGroup</description>
+	<scope>text.html</scope>
 </snippet>

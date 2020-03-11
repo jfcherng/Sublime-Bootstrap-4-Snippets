@@ -15,4 +15,5 @@
 </content>
 	<tabTrigger>b4-collapse</tabTrigger>
 	<description>Collapse</description>
+	<scope>text.html</scope>
 </snippet>

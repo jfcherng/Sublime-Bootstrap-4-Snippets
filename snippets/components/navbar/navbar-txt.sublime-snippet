@@ -8,4 +8,5 @@
 </content>
 	<tabTrigger>b4-navbar-text</tabTrigger>
 	<description>Navbar</description>
+	<scope>text.html</scope>
 </snippet>

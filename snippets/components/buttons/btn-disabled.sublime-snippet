@@ -6,4 +6,5 @@
 </content>
 	<tabTrigger>b4-btn-disabled</tabTrigger>
 	<description>Button</description>
+	<scope>text.html</scope>
 </snippet>

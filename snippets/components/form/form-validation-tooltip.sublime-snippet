@@ -59,4 +59,5 @@
 </content>
 	<tabTrigger>b4-form-tooltip-validation</tabTrigger>
 	<description>Form</description>
+	<scope>text.html</scope>
 </snippet>

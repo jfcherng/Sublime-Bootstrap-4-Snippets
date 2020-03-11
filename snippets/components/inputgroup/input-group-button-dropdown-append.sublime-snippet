@@ -18,4 +18,5 @@
 </content>
 	<tabTrigger>b4-input-group-button-dropdown-append</tabTrigger>
 	<description>Input Group</description>
+	<scope>text.html</scope>
 </snippet>

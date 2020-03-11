@@ -11,4 +11,5 @@
 </content>
 	<tabTrigger>b4-input-group-button-addons-append</tabTrigger>
 	<description>Input Group</description>
+	<scope>text.html</scope>
 </snippet>

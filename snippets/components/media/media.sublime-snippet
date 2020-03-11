@@ -12,4 +12,5 @@
 </content>
 	<tabTrigger>b4-media</tabTrigger>
 	<description>Media</description>
+	<scope>text.html</scope>
 </snippet>

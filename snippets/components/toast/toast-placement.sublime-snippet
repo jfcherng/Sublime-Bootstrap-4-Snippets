@@ -20,4 +20,5 @@
 </content>
 	<tabTrigger>b4-toast-placement</tabTrigger>
 	<description>Toast</description>
+	<scope>text.html</scope>
 </snippet>

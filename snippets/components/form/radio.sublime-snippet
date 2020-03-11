@@ -11,4 +11,5 @@
 </content>
 	<tabTrigger>b4-radio</tabTrigger>
 	<description>Radio</description>
+	<scope>text.html</scope>
 </snippet>

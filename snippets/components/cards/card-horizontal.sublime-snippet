@@ -19,4 +19,5 @@
 </content>
 	<tabTrigger>b4-card-horizontal</tabTrigger>
 	<description>Card</description>
+	<scope>text.html</scope>
 </snippet>

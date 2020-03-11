@@ -12,4 +12,5 @@
 </content>
 	<tabTrigger>b4-card-styles</tabTrigger>
 	<description>Card</description>
+	<scope>text.html</scope>
 </snippet>
