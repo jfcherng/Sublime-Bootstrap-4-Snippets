@@ -1,4 +1,4 @@
-# Sublime-Bootstrap-4-Snippets
+# ST-Bootstrap-4-Snippets
 
 ## Installation
 
@@ -9,16 +9,16 @@ To install this plugin, you have better to: Add a custom Package Control reposit
 1. Go to `Preferences` » `Package Settings` » `Package Control` » `Settings - User`.
 1. Add custom repository and package name mapping as the following.
 
-    ```javascript
-    "package_name_map":
-    {
-      "Sublime-Bootstrap-4-Snippets": "Bootstrap 4 Snippets",
-    },
-    "repositories":
-    [
-      "https://github.com/jfcherng/Sublime-Bootstrap-4-Snippets.git",
-    ],
-    ```
+   ```javascript
+   "package_name_map":
+   {
+     "ST-Bootstrap-4-Snippets": "Bootstrap 4 Snippets",
+   },
+   "repositories":
+   [
+     "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Snippets.git",
+   ],
+   ```
 
 1. Restart Sublime Text.
 1. You should be able to install this package with Package Control with the name of `Bootstrap 4 Snippets`.
