@@ -1,9 +1,4 @@
 {
-	"install": "messages/install.txt",
-	"1.0.1": "messages/1.0.1.txt",
-	"1.0.2": "messages/1.0.2.txt",
-	"1.0.3": "messages/1.0.3.txt",
-	"1.0.4": "messages/1.0.4.txt",
-	"1.0.5": "messages/1.0.5.txt",
-	"1.0.6": "messages/1.0.6.txt"
+    "1.0.7": "messages/update_message.md",
+    "install": "messages/install.md"
 }
