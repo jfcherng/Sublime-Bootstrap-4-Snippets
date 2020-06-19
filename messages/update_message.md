@@ -1,5 +1,5 @@
-## [1.0.7] - 2020-06-14
+## [1.0.8] - 2020-06-19
 
 ### Fixed
 
-- Test.
+- Do not show snippets when in `source.php` or Markdown.
