@@ -8,5 +8,5 @@
 </content>
 	<tabTrigger>b4-cdn-js</tabTrigger>
 	<description>CDN</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

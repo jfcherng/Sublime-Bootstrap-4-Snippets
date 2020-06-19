@@ -8,5 +8,5 @@
 </content>
 	<tabTrigger>b4-popover</tabTrigger>
 	<description>Popover</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

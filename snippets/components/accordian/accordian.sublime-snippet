@@ -50,5 +50,5 @@
 </content>
 	<tabTrigger>b4-accordian</tabTrigger>
 	<description>Accordian</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

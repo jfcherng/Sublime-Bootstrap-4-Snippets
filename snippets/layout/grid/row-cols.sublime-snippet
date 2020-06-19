@@ -11,5 +11,5 @@
 </content>
 	<tabTrigger>b4-row-cols</tabTrigger>
 	<description>Row Cols</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

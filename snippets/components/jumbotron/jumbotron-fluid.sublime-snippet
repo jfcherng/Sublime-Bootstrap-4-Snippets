@@ -11,5 +11,5 @@
 </content>
 	<tabTrigger>b4-jumbotron-fluid</tabTrigger>
 	<description>Jumbotron</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

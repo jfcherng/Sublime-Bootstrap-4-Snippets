@@ -19,5 +19,5 @@
 </content>
 	<tabTrigger>b4-nav-item-link</tabTrigger>
 	<description>Nav</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

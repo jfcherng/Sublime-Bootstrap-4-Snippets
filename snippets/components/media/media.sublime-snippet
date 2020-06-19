@@ -12,5 +12,5 @@
 </content>
 	<tabTrigger>b4-media</tabTrigger>
 	<description>Media</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

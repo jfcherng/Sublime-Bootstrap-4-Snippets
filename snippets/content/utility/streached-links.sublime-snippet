@@ -13,5 +13,5 @@
 </content>
 	<tabTrigger>b4-stretched-link</tabTrigger>
 	<description>StretchedLink</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

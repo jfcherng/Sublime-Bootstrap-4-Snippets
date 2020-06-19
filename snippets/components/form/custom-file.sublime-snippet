@@ -9,5 +9,5 @@
 </content>
 	<tabTrigger>b4-custom-file</tabTrigger>
 	<description>CustomFile</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

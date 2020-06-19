@@ -37,5 +37,5 @@
 </content>
 	<tabTrigger>b4-scrollspy</tabTrigger>
 	<description>Scrollspy</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

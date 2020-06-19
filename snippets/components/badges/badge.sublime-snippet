@@ -6,5 +6,5 @@
 </content>
 	<tabTrigger>b4-badge</tabTrigger>
 	<description>Badge</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

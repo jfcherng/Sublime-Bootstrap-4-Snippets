@@ -27,5 +27,5 @@
 </content>
 	<tabTrigger>b4-starter-template</tabTrigger>
 	<description>Template</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

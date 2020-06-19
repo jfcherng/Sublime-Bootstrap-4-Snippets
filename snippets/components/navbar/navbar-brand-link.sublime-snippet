@@ -8,5 +8,5 @@
 </content>
 	<tabTrigger>b4-navbar-brand-link</tabTrigger>
 	<description>Navbar</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

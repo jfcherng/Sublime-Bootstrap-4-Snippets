@@ -27,5 +27,5 @@
 </content>
 	<tabTrigger>b4-navbar-mini-li</tabTrigger>
 	<description>Navbar</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

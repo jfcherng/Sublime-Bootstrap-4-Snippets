@@ -19,5 +19,5 @@
 </content>
 	<tabTrigger>b4-listgroup-badges</tabTrigger>
 	<description>ListGroup</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

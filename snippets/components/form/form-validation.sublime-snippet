@@ -70,5 +70,5 @@
 </content>
 	<tabTrigger>b4-form-validation</tabTrigger>
 	<description>Form</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

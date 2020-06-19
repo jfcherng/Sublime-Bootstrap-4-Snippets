@@ -192,5 +192,5 @@
 </content>
 	<tabTrigger>b4-blog-post-template</tabTrigger>
 	<description>Blog Template</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

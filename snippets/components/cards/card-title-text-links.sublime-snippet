@@ -14,5 +14,5 @@
 </content>
 	<tabTrigger>b4-card-title-text-links</tabTrigger>
 	<description>Card</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>

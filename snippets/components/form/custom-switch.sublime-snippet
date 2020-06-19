@@ -9,5 +9,5 @@
 </content>
 	<tabTrigger>b4-custom-switch</tabTrigger>
 	<description>CustomSwitch</description>
-	<scope>text.html</scope>
+	<scope>text.html - text.html.markdown - source.php</scope>
 </snippet>
