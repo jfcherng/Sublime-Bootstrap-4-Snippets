@@ -13,5 +13,5 @@
 </content>
 	<tabTrigger>b4-card-img-overlay</tabTrigger>
 	<description>Card</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

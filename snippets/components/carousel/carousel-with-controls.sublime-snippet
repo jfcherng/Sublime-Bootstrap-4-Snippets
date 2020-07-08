@@ -26,5 +26,5 @@
 </content>
 	<tabTrigger>b4-carousel-with-controls</tabTrigger>
 	<description>Carousel</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

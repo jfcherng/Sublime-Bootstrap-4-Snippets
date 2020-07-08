@@ -7,5 +7,5 @@
 </content>
 	<tabTrigger>b4-custom-range</tabTrigger>
 	<description>CustomRange</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

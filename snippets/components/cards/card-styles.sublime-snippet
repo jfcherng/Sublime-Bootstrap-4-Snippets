@@ -12,5 +12,5 @@
 </content>
 	<tabTrigger>b4-card-styles</tabTrigger>
 	<description>Card</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

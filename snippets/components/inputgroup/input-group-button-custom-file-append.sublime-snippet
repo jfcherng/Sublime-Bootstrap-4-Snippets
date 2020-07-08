@@ -14,5 +14,5 @@
 </content>
 	<tabTrigger>b4-input-group-button-custom-file-append</tabTrigger>
 	<description>Input Group</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

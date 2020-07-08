@@ -37,5 +37,5 @@
 </content>
 	<tabTrigger>b4-card-group-img-title-footer</tabTrigger>
 	<description>Card</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

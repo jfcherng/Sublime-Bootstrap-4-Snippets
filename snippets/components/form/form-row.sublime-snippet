@@ -15,5 +15,5 @@
 </content>
 	<tabTrigger>b4-form-row</tabTrigger>
 	<description>Form</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

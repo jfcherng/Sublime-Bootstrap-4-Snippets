@@ -23,5 +23,5 @@
 </content>
 	<tabTrigger>b4-pagination-disabled-active</tabTrigger>
 	<description>Pagination</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

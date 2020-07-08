@@ -18,5 +18,5 @@
 </content>
 	<tabTrigger>b4-button-addon-dropdown</tabTrigger>
 	<description>Button</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

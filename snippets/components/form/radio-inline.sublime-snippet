@@ -13,5 +13,5 @@
 </content>
 	<tabTrigger>b4-radio-inline</tabTrigger>
 	<description>Radio</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

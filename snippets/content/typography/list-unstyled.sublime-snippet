@@ -22,5 +22,5 @@
 </content>
 	<tabTrigger>b4-list-unstyled</tabTrigger>
 	<description>List</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>

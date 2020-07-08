@@ -32,5 +32,5 @@
 </content>
 	<tabTrigger>b4-toast-stacking</tabTrigger>
 	<description>Toast</description>
-	<scope>text.html - text.html.markdown - source.php</scope>
+	<scope>text.html - text.html.markdown - source</scope>
 </snippet>
